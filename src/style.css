@@ -4,7 +4,7 @@
 
 body {
   background-color: #fff;
-  color: #9c9c9c;
+  color: #212121;
 }
 
 .timer {
@@ -19,7 +19,6 @@ body {
 }
 
 .value {
-  background-color: #211221;
-  color: #fff;
+  color: #212121;
   border-radius: 4px;
 }
