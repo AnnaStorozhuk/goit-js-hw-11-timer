@@ -19,6 +19,7 @@ body {
 }
 
 .value {
+  background-color: bisque;
   color: #212121;
   border-radius: 4px;
 }
